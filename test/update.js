@@ -22,7 +22,7 @@ describe('Finding record', function () {
 
     MarioChar.findOneAndUpdate({
       name: 'Mario'
-    },{
+    }, {
       name: 'Luigine'
     }).then(function () {
 

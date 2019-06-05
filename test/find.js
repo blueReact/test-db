@@ -35,7 +35,7 @@ describe('Finding record', function () {
     MarioChar.findOne({
       _id: char._id
     }).then(function (result) {
-     
+
       assert(result._id.toString() === char._id.toString());
       done();
 
