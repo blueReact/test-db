@@ -1,0 +1,25 @@
+{
+  "name": "test-db",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000-\u0000d\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roycodeman/test-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roycodeman/test-db/issues"
+  },
+  "homepage": "https://github.com/roycodeman/test-db#readme",
+  "dependencies": {
+    "mongoose": "^5.5.12"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
